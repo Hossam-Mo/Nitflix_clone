@@ -1,0 +1,17 @@
+.app_main {
+  background-color: #111;
+}
+
+.dark {
+  position: fixed;
+  width: 100%;
+  height: 150%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: -1;
+}
+body {
+  min-height: 100vh;
+  max-height: 100%;
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/f9935b31-a32a-49c4-8149-59ba62895575/c5140361-c710-4cbe-892e-486b93342b5e/JO-en-20200824-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+}
